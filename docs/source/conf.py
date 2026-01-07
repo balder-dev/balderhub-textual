@@ -15,8 +15,8 @@ from balderhub.textual import __version__
 
 project = 'BalderHub Textual'
 version = __version__
-copyright = "2026, Max Stahlschmidt"
-author = 'Max Stahlschmidt'
+copyright = '2025, Max Stahlschmidt & others'
+author = 'Max Stahlschmidt & others'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

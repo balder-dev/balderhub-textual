@@ -8,20 +8,23 @@ This section describes all features that are shipped with this package.
 Scenario Features
 =================
 
-.. note::
-    This package does not provide any scenario features
+Main Features
+-------------
 
-.. todo add your features with .. autoclass
-    .. autoclass:: balderhub.textual.lib.scenario_features.MyScenarioFeature
-        :members:
+.. autoclass:: balderhub.textual.lib.scenario_features.AppFeature
+    :members:
 
+.. autoclass:: balderhub.textual.lib.scenario_features.TextualControlFeature
+    :members:
+
+Page Object Model Feature
+-------------------------
+
+.. autoclass:: balderhub.textual.lib.scenario_features.TextualPage
+    :members:
 
 Setup Features
 ==============
 
 .. note::
-    This package does not provide any setup features.
-
-.. todo add your features with .. autoclass
-    .. autoclass:: balderhub.textual.lib.setup_features.MySetupFeature
-        :members:
+    This BalderHub project doesn't have any setup features.
